@@ -1,2 +1,2 @@
-# Bot-editor
-note updates are not automatic
+welcome to my bot editor the moderators are currently 
+daniel
